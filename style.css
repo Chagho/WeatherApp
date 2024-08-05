@@ -227,4 +227,9 @@ body {
     .searchbar-container {
         margin-bottom: 1rem;
     }
+
+    .toggle-container {
+        top: 0.5rem;
+        left: 0.5rem;
+    }
 }
