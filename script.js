@@ -43,7 +43,7 @@ async function fetchData() {
     } else {
         degreeTypeChanger = '°C';
     }
-    
+    console.log(data);
     changeWeather(cityName,degree,pic,country);
 }
 
