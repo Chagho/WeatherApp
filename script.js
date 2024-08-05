@@ -23,6 +23,7 @@ async function fetchData() {
             pic = 'images/cloudy.png';
             break;
         case 'Rain':
+        case 'Thunderstorm':
             pic = 'images/rainy.png';
             break;
         case 'Snow':
